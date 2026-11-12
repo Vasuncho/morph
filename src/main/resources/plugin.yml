@@ -1,0 +1,21 @@
+name: Chunky+
+version: '${project.version}'
+main: com.vasuncho.morph.MorphPlugin
+api-version: '1.21'
+description: Chunky+
+author: vasuncho
+
+commands:
+  morph:
+    description: Morph into an offline player.
+    usage: /morph <username>
+    permission: morph.use
+  unmorph:
+    description: Return to your own identity.
+    usage: /unmorph
+    permission: morph.use
+
+permissions:
+  morph.use:
+    description: Allows /morph and /unmorph.
+    default: op

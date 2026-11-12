@@ -1,0 +1,15 @@
+com/vasuncho/morph/ProfileFetcher$LookupResult$TimedOut.class
+com/vasuncho/morph/ProfileFetcher$LookupResult$RateLimited.class
+com/vasuncho/morph/MorphAnimation.class
+com/vasuncho/morph/ProfileFetcher$LookupResult$Found.class
+com/vasuncho/morph/ProfileFetcher$LookupResult.class
+com/vasuncho/morph/ProfileFetcher$LookupResult$NotFound.class
+com/vasuncho/morph/MorphData.class
+com/vasuncho/morph/UnmorphCommand.class
+com/vasuncho/morph/ProfileFetcher.class
+com/vasuncho/morph/MorphListener.class
+com/vasuncho/morph/MorphPlugin.class
+com/vasuncho/morph/MorphManager$CachedLookup.class
+com/vasuncho/morph/ProfileFetcher$LookupResult$Failed.class
+com/vasuncho/morph/MorphManager.class
+com/vasuncho/morph/MorphCommand.class
